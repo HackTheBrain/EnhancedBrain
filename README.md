@@ -4,7 +4,7 @@
 Eduard Alibekov, Lisa Saifutdinova, Veronika Jirásková, Martina Janíková
 
 ## Why
-Concentration plays crucial role for many jobs: flight management, technical monitoring, writing a scientific paper.. So, developed method is able to keep the concentration on the same level and helps to do the job as productively as it is possible. Besides the concentration the method could be applied on any measurable action like happiness or passion.
+Concentration plays crucial role for many jobs: flight management, technical monitoring, writing a scientific paper.. So, developed method is able to keep the concentration on the same level and helps to do the job as productively as it is possible. Besides the concentration the method could be applied on any measurable conditions like happiness or passion.
 ## What
 The method maintains human at the certain concentration level. It changes the environment using stimuli (it could be background music/disturbing sound/visual stimulation/something else) to achieve maximum concentration. It could be used when a person is working on something and suddenly concentration is falling and the system would be able to stimulate a person to return to the previous concentration level and continue to work productively.
 
