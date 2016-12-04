@@ -1,0 +1,17 @@
+Matlab Code:
+commandStr = 'python sound.py comic003.mp3';
+[status, commandOut] = system(commandStr);
+
+Dependences: Tkinter, PIL, mp3play
+
+Stimuli commandStr :
+
+python sound.py comic003.mp3
+python sound.py comic018.mp3
+python sound.py emergency001.mp3
+python sound.py horror015.mp3
+python sound.py industry005.mp3
+python background.py
+python fish.py
+python blink.py
+python zoom.py
