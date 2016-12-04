@@ -11,6 +11,8 @@ The method maintains human at the certain concentration level. It changes the en
 ## How
 
 
+![How it works](https://github.com/HackTheBrain/EnhancedBrain/blob/master/enhanced_brain.jpg)
+
 
 We used g-tec cap for recording brain activity in frontal lobe (F3). Frontal lobe is responsible for many functions including concentration, which is corresponding to 12-18 Hz frequency band. We obtained the data from the device using openVibe and via tcp sent the data in Matlab. Than using standard functions we’ve calculated relative spectra in 12-18 Hz. Thus we use online model-free reinforcement learning in order to the optimal behaviour. The short description of the algorithm is placed into Appendix.
 
